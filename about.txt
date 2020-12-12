@@ -1,0 +1,5 @@
+About
+this repo1 is sfor practice purposes.
+it contains a submodule
+a java file
+and rest are txt files
