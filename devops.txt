@@ -1,0 +1,10 @@
+this is about devops
+aws cloud
+google cloud platform
+microsoft azure
+maven
+ant
+gradle
+jenkins
+dockers
+kubernetes
